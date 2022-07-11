@@ -1,6 +1,8 @@
 import React from 'react';
+import MoviePage from './pages/MoviePage';
+
 const App = () => {
-  return <h1>ThinhMD Web Movies</h1>;
+  return <MoviePage />;
 };
 
 export default App;

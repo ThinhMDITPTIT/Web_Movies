@@ -1,0 +1,15 @@
+.movie-page {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.movie-page .genre-container {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 24px;
+}
+
+.movie-page .genre-container span {
+  color: white;
+  margin-right: 16px;
+}
